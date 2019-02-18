@@ -1,7 +1,7 @@
 # ReactApp
 
 ## How does it work?
-It gets a list of the first 300 Pokémons from PokéAPI (https://pokeapi.co/) and displays their information.
+It gets a list of the first 300 (arbitrary number) Pokémons from PokéAPI (https://pokeapi.co/) and displays their information.
 
 ## Instructions
 
